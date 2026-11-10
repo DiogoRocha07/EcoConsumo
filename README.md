@@ -30,18 +30,3 @@ npm test
 ```
 
 Os testes cobrem as regras que transformam as respostas em recomendações. O checklist é salvo no `localStorage` do navegador usado.
-
-## Publicar na Vercel
-
-1. Envie estes arquivos para um repositório Git (GitHub, GitLab ou Bitbucket).
-2. Na Vercel, escolha **Add New → Project** e importe o repositório.
-3. A Vercel detecta Vite. Use `npm run build` como comando de build e `dist` como diretório de saída.
-4. Publique. Não há variáveis de ambiente nem servidor para configurar.
-
-Também é possível instalar a CLI da Vercel e publicar com `vercel` após entrar na conta; para produção, use `vercel --prod`.
-
-## Roteiro breve para a demonstração
-
-Faça a apresentação presencial com os participantes combinados e peça autorização antes de fotografar. Explique que a pesquisa é pequena, convide cada pessoa a navegar pelo diagnóstico e conversem sobre quais sugestões são viáveis para a realidade da casa. Fotografe apenas a atividade que realmente ocorreu; pode enquadrar a tela e as mãos sem identificar os participantes. Registre o feedback em suas próprias anotações, sem inserir dados pessoais no site.
-
-Antes da visita, abra o site no computador ou celular e teste a conexão. Para uma demonstração sem internet, rode localmente com `npm run dev` e deixe a página aberta no dispositivo. O questionário permanece na tela atual; o checklist persiste naquele navegador.

@@ -1,4 +1,4 @@
-# EcoConsumo — Água e Energia
+# EcoConsumo - Água e Energia
 
 MVP educativo para apoiar uma conversa presencial sobre hábitos de consumo de água e energia. Feito com React, TypeScript e Vite, sem servidor ou banco de dados.
 
